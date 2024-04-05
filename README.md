@@ -35,4 +35,8 @@ root/
 
 ```
 ### Demo
-![Video](assets/demo.mp4)
+![Image](assets/img1.png)
+
+![Image](assets/img2.png)
+
+![Image](assets/img3.png)
