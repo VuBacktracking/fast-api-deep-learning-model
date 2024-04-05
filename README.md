@@ -15,7 +15,7 @@ root/
 ├── middleware/
 │   ├── __init__.py
 │   ├── cors.py
-|   └──http.py
+|   └── http.py
 ├── models/
 │   ├── weights/
 │   │   └── pneumonia_weights.pt
