@@ -34,12 +34,6 @@ root/
 └── server.py
 
 ```
-### Demo
-![Image](assets/img1.png)
-
-![Image](assets/img2.png)
-
-![Image](assets/img3.png)
 
 ---
 
@@ -62,3 +56,17 @@ $ python3 server.py
 
 Result
 ![Result](assets/result.png)
+
+This will start the FastAPI application in development mode, and you can access the API at
+`http://0.0.0.0:8000/docs`
+
+---
+
+### Demo
+![Image](assets/img1.png)
+
+![Image](assets/img2.png)
+
+![Image](assets/img3.png)
+
+![Log](assets/predictor_log.png)
