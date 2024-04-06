@@ -52,7 +52,7 @@ $ git clone https://github.com/VuBacktracking/Deploy-Deep-Learning-Model-With-Fa
 
 Install the requirements
 ```
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 Run the server.py
