@@ -40,3 +40,25 @@ root/
 ![Image](assets/img2.png)
 
 ![Image](assets/img3.png)
+
+---
+
+### How to run?
+
+Clone the project
+```
+$ git clone https://github.com/VuBacktracking/Deploy-Deep-Learning-Model-With-FastAPI.git
+```
+
+Install the requirements
+```
+$ pip install requirements.txt
+```
+
+Run the server.py
+```
+$ python3 server.py
+```
+
+Result
+![Result](assets/result.png)
