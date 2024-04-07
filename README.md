@@ -1,6 +1,8 @@
 # Deploy Deep Learning Model with FastAPI
 ## Project Overview
 
+![Overview](assets/inference.jpeg)
+
 Pneumonia is a severe lung infection that can be life-threatening if not diagnosed and treated promptly. Chest X-ray imaging plays a crucial role in the early detection and diagnosis of Pneumonia. However, interpreting these images accurately requires specialized knowledge and expertise. This project addresses this challenge by developing a deep learning model capable of analyzing chest X-ray images and classifying them as either showing signs of Pneumonia or being normal.
 
 ---
